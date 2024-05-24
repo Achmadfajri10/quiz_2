@@ -35,6 +35,3 @@ Ini adalah implementasi permainan Tic Tac Toe menggunakan bahasa pemrograman Pyt
 Algoritma ini diimplementasikan dalam fungsi `check_win(player)` dalam kode permainan Tic Tac Toe. Dengan menggunakan algoritma ini, permainan secara otomatis menentukan pemenang dan menampilkan pesan sesuai hasilnya.
 
 
-## Lisensi
-
-Tic Tac Toe Game ini dilisensikan di bawah lisensi MIT - lihat file [LICENSE](LICENSE) untuk detail lebih lanjut.
