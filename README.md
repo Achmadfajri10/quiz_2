@@ -17,7 +17,7 @@ Ini adalah implementasi permainan Tic Tac Toe menggunakan bahasa pemrograman Pyt
 
 1. Pastikan Python dan modul Pygame sudah terinstal di komputer Anda.
 2. Unduh semua file dari repositori ini.
-3. Jalankan program dengan menjalankan file `main.py` menggunakan Python.
+3. Jalankan program dengan menjalankan file `tictactoe.py` menggunakan Python.
 4. Ikuti petunjuk di layar untuk memainkan permainan.
 
 ## Algoritma Pengecekan Pemenang
